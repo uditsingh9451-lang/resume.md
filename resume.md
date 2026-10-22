@@ -6,9 +6,9 @@
 </head>
 <body>
  <!-- Heading: write your own name -->
- <h1>Aman Sharma</h1>
- <h3>BCA First Year Student</h3>
- <p>Hello! I am <strong>Aman</strong>. I love <em>coding</em> and cricket.</p>
+ <h1>UDIT SINGH</h1>
+ <h3>BTECH (AI)First Year Student</h3>
+ <p>Hello! I am <strong>UDIT</strong>. I love <em>coding</em> and cricket.</p>
  <hr>
  <!-- Skills box -->
  <div id="skills" class="section">
@@ -18,9 +18,9 @@
  <!-- Education box -->
  <div id="education" class="section">
  <h2>Education</h2>
- <p>12th - ABC School<br>BCA - Invertis University (running)</p>
+ <p>12th - Udaan World School<br>BTECH.AI - Invertis University (running)</p>
  </div>
  <hr>
- <p>Email: aman@example.com</p>
+ <p>Email:uditsingh9451@gmai</p>
 </body>
 </html>
