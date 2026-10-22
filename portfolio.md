@@ -6,7 +6,7 @@
 </head>
 <body>
  <header>
- <h1>Riya's Portfolio</h1>
+ <h1>Udit Portfolio</h1>
  <nav>
  <a href="#about">About</a> |
  <a href="#course">My Course</a> |
@@ -18,7 +18,7 @@
  <section id="about">
  <h2>About Me</h2>
  <!-- Put your photo in an "img" folder. alt is a must! -->
- <img src="img/me.jpg" alt="Riya smiling at her laptop" width="150">
+ <img src="https://static.vecteezy.com/vite/assets/photo-masthead-375-BoK_p8LG.webp" alt="nature" width="150">
  <p>I am a first year student who loves web design.</p>
  </section>
  <section id="course">
@@ -45,7 +45,7 @@
  </dl>
  </aside>
  <footer>
- <p>Made by Riya</p>
+ <p>Made by Udit</p>
  </footer>
 </body>
 </html>
